@@ -1,0 +1,5 @@
+.date-select {
+  text-align: justify;
+  &:after { content: ''; display: inline-block; width: 100%; }
+  select { width: 32%; }
+}

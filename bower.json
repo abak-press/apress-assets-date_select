@@ -1,0 +1,10 @@
+{
+  "name": "apress-assets-date_select",
+  "version": "0.0.1",
+  "authors": [
+    "bibendi <bibendi@bk.ru>"
+  ],
+  "main": "css/date_select.scss",
+  "license": "MIT",
+  "homepage": "http://railsc.ru"
+}
